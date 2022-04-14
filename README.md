@@ -1,4 +1,6 @@
 # Nightmare-Tools
+**DISCONTINUED**
+https://github.com/Shade3421/Nightmare
 Discord Tools
 Mostly made by Shade#3421 
 V1 atleast
